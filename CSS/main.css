@@ -1,11 +1,10 @@
-@import './header.css'
-@import './common.css'
-@import './features.css'
-@import './footer.css'
-@import './hero.css'
-@import './main.css'
-@import './portfolio.css'
-@import './team.css'
+@import './common.css';
+@import './header.css';
+@import './features.css';
+@import './footer.css';
+@import './hero.css';
+@import './portfolio.css';
+@import './team.css';
 
 
 
