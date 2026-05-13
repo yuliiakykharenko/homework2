@@ -1,4 +1,4 @@
-#hero {
+.hero {
     background-color:  #2e2f42;
 }
 
@@ -15,7 +15,6 @@
     border-radius: 4px;
     padding-block: 16px;
     padding-inline: 32px;
-    width: 169px;
     height: 56px;
     color:#fff;
     background-color: #4d5ae5;
@@ -23,10 +22,6 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor:pointer;
-    border-radius: 4px;
-    padding: 16px;
-    min-width: 169px;
-    height: 56px;
     color: #fff;
 }
 
