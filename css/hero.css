@@ -12,10 +12,6 @@
  }
 
 .button-title {
-    border-radius: 4px;
-    padding-block: 16px;
-    padding-inline: 32px;
-    height: 56px;
     color:#fff;
     background-color: #4d5ae5;
     font-weight: 500;
